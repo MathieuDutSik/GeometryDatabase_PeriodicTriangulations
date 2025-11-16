@@ -1,0 +1,25 @@
+return [ rec(
+      Hypermetric := [ -1, 0, 0, 0, 1, 1 ],
+      pos := 1 ), rec(
+      Hypermetric := [ -1, -1, 0, 1, 1, 1 ],
+      pos := 2 ), rec(
+      Hypermetric := [ -1, -1, 0, 1, 1, 1 ],
+      pos := 1 ), rec(
+      Hypermetric := [ -2, -1, 1, 1, 1, 1 ],
+      pos := 2 ), rec(
+      Hypermetric := [ -1, -1, -1, 1, 1, 2 ],
+      pos := 3 ), rec(
+      Hypermetric := [ -1, -1, -1, 1, 1, 2 ],
+      pos := 1 ), rec(
+      Hypermetric := [ -1, -1, -1, 1, 1, 2 ],
+      pos := 2 ), rec(
+      Hypermetric := [ -2, -1, 1, 1, 1, 1 ],
+      pos := 1 ), rec(
+      Hypermetric := [ -1, -1, -1, -1, 2, 3 ],
+      pos := 1 ), rec(
+      Hypermetric := [ -1, -1, -1, -1, 2, 3 ],
+      pos := 3 ), rec(
+      Hypermetric := [ -1, -1, -1, -1, 2, 3 ],
+      pos := 4 ), rec(
+      Hypermetric := [ -1, -1, -1, -1, 2, 3 ],
+      pos := 2 ) ];

@@ -1,0 +1,5 @@
+return rec(
+  ePair := rec(
+      eVert := [ 1, 2, 0, 0, 0, -1 ],
+      idx := 6 ),
+  realizable := false );
